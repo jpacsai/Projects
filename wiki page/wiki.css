@@ -1,0 +1,217 @@
+/* original page:
+
+https://en.wikipedia.org/wiki/Communist_Mutants_from_Space   */
+
+
+/* HELPER COLORS */
+
+body {
+    background-color: #f6f6f6;
+}
+
+#header {
+    background-color: rgba(44, 252, 158, 0.67);
+}
+
+/* #wrapper {
+    background-color: beige;
+} */
+
+/* #side-panel {
+    background-color: rgba(44, 252, 158, 0.5); 
+} */
+
+/* #content-wrapper {
+    background-color: lightcoral; 
+} */
+
+ #content {
+    background-color: white; 
+}
+
+
+#foter {
+    background-color: #f6f6f6;
+}
+
+
+
+/* PAGE STYLES */
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #0645ad;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #0b0080;
+}
+
+a:focus {
+    text-decoration: underline;
+}
+
+/* FONTS, COLORS */
+
+.article-font {
+    font-size: 92%;
+    font-family: sans-serif;
+    line-height: 1.85;
+}
+
+.small-font {
+    font-size: 80%;
+    font-family: sans-serif;
+    line-height: 1.75;
+}
+
+.bold-italic {
+    font-style: italic; 
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.grey-background {
+    background-color: #f6f6f6;
+}
+
+.grey-border {
+    border: 1px solid #a2a9b1;
+}
+
+.grad {
+    background-image: linear-gradient(#ffffff 50%,#f6f6f6 100%);
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+
+/* LAYOUT */
+
+#header {
+    display: block;
+    height: 5.25rem;
+    min-width: calc(11.6rem + 22.5rem);   
+}
+
+#wrapper {
+    min-width: calc(11.6rem + 22.5rem);
+    min-height: calc(100vh - 5.25rem);
+}
+
+#side-panel {
+    display: inline-block;
+    width: 11.6rem;
+    min-height: calc(100vh - 5.25rem);  
+    vertical-align: top;
+}
+
+#content-wrapper {
+    display: inline-block;
+    min-height: calc(100vh - 5.25rem);
+    width: calc(100% - 11.6rem);
+    vertical-align: top;
+}
+
+#content {
+    display: inline-block;
+    width: 100%;
+    min-width: 22.5rem;
+    min-height: calc(100vh - 5.25rem);
+}
+
+#foter {
+    position: absolute;
+    bottom: -3rem;
+    right: 0;
+    width: calc(100% - 11.6rem);
+    height: 3rem;
+} 
+
+/* SIDE PANEL STYLES */
+
+#logo img {
+    width: 73%;
+    margin-top: -5.1rem;
+    margin-left: 1.7rem
+}
+
+#side-content {
+    margin-top: 1.65rem;
+}
+
+.side-section-title {
+    margin-top: 0.8rem;
+    margin-bottom: 0.5rem;
+    color: #444444;
+}
+
+#side-content {
+    padding-left: 1.7rem;
+}
+
+.side-group {
+    font-family: sans-serif;
+    font-size: 85%;
+    line-height: 1.55;
+    
+}
+
+#edit-links {
+    margin-bottom: 2rem;
+}
+
+/* CONTENT STYLES */
+
+#content {
+    border-bottom: 1px solid #d2e9fa;
+    border-left: 1px solid #d2e9fa;
+    border-top: 1px solid #d2e9fa;
+}
+
+#infobox {
+    width: 16.5rem;
+    float: right;
+    margin: 7.1rem 1.55rem 1rem 3rem;
+    padding-bottom: 0.25rem;
+    text-align: center;  
+}
+ 
+#infobox-title {
+    margin: 0.3rem 0 0.1rem 0;    
+}
+
+#img-title {
+    line-height: 1.1;
+    margin-bottom: 0.5rem;
+}
+
+#info-table {
+    width: 100%;
+    margin-left: 0.35rem;
+    font-size: 83%;
+}
+
+tr {
+    height: 1.52rem;
+}
+
+
+
