@@ -1,8 +1,0 @@
-- jelenítse meg az alapvető információkat az esküvővel kapcsolatban (helyszínek, időpontok, stb.).
-- adjon választ a vendégek gyakori kérdéseire.
-- tegye lehetővé a kapcsolatfelvételt a menyasszonnyal és a vőlegénnyel.
-- tartalmazzon egy szekciót az ajándékokról.
-- rendelkezzen szép és letisztult designnal.
-- tartalmazzon egy teljes képernyőt betöltő fejlécet a jegyespár fotójával.
-- tartalmazzon egy láblécet a szerzői joggal kapcsolatos információval.
-- legyen teljesen reszponzív.
