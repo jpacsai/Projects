@@ -6,7 +6,9 @@ https://jpacsai.github.io/codeBerrySchool/HTML-CSS/wiki_page/
 
 https://jpacsai.github.io/codeBerrySchool/HTML-CSS-JS/ColorClock/
 
-https://jpacsai.github.io/freeCodeCamp/Basic%20Projects/Tribute%20page/
+https://jpacsai.github.io/freeCodeCamp/Basic%20Projects/Tribute%20page/  - works
+
+https://jpacsai.github.io/GoogleUdacity/FinalProject/   - works
 
 
 
