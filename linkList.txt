@@ -1,12 +1,12 @@
 https://jpacsai.github.io/codeBerrySchool/HTML-CSS/about_page/
 
-https://jpacsai.github.io/codeBerrySchool/HTML-CSS/wedding_page/
+https://jpacsai.github.io/codeBerrySchool/Projects/wedding_page/
 
 https://jpacsai.github.io/codeBerrySchool/HTML-CSS/wiki_page/
 
 https://jpacsai.github.io/codeBerrySchool/HTML-CSS-JS/ColorClock/
 
-https://jpacsai.github.io/freeCodeCamp/Basic%20Projects/Tribute%20page/  - works
+https://jpacsai.github.io/freeCodeCamp/BasicProjects/Tribute_page/  - works
 
 https://jpacsai.github.io/GoogleUdacity/FinalProject/   - works
 
