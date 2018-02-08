@@ -8,6 +8,8 @@ https://jpacsai.github.io/codeBerrySchool/HTML-CSS-JS/ColorClock/
 
 https://jpacsai.github.io/GoogleUdacity/FinalProject/
 
+https://jpacsai.github.io/Udacity/IntroToAjax/minicourse-ajax-project/
+
 https://jpacsai.github.io/freeCodeCamp/BasicProjects/Tribute_page/
 
 https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/
