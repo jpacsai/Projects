@@ -2,10 +2,9 @@
 
 ## codeBerrySchool:  
 
-[About page](https://jpacsai.github.io/codeBerrySchool/HTML-CSS/about_page/)  
-[Wedding page](https://jpacsai.github.io/codeBerrySchool/HTML-CSS/wedding_page/)  
-[Wikipedia page](https://jpacsai.github.io/codeBerrySchool/HTML-CSS/wiki_page/)  
-[ColorClock](https://jpacsai.github.io/codeBerrySchool/HTML-CSS-JS/ColorClock/)  
+[About page](https://jpacsai.github.io/codeBerrySchool/Projects/AboutMe_page/)  
+[Wedding page](https://jpacsai.github.io/codeBerrySchool/Projects/Wedding_page/)   
+[ColorClock](https://jpacsai.github.io/codeBerrySchool/Projects/ColorClock/)  
 
 ***
 
