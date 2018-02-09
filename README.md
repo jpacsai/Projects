@@ -1,6 +1,7 @@
-# Projects links
+# Project links
 
 ## codeBerrySchool:  
+
 [About page](https://jpacsai.github.io/codeBerrySchool/HTML-CSS/about_page/)  
 [Wedding page](https://jpacsai.github.io/codeBerrySchool/HTML-CSS/wedding_page/)  
 [Wikipedia page](https://jpacsai.github.io/codeBerrySchool/HTML-CSS/wiki_page/)  
