@@ -26,8 +26,8 @@ Intro to Ajax: [Move planner app](https://jpacsai.github.io/Udacity/IntroToAjax/
 
 #### Intermediate Projects:  
 [Random Quote Machine](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/)  
-[Local Weather app](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/LocalWeather/)
-
+[Local Weather app](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/LocalWeather/)  
+[Wikipedia Viewer](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/WikipediaViewer/)  
 
 
 
