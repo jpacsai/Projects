@@ -8,7 +8,7 @@
 
 ***
 
-## Google-Udacity Front End Web Developer Scholarship Challenge (Phase 1):  
+## Google-Udacity Front End Web Developer Scholarship:  
 [Pixel Art Maker](https://jpacsai.github.io/GoogleUdacity/FinalProject/)  
 
 ***
