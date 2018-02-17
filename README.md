@@ -28,6 +28,7 @@ Intro to Ajax: [Move planner app](https://jpacsai.github.io/Udacity/IntroToAjax/
 [Random Quote Machine](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/)  
 [Local Weather app](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/LocalWeather/)  
 [Wikipedia Viewer](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/WikipediaViewer/)  
+[TwitchTV Checker](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/Twitchtv/)
 
 
 
