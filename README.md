@@ -8,11 +8,6 @@
 
 ***
 
-## Google-Udacity Front End Web Developer Scholarship:  
-[Pixel Art Maker](https://jpacsai.github.io/GoogleUdacity_Nanodegree/ChallengePhase/FinalProject/)  
-
-***
-
 ## Udacity:
 Intro to Ajax: [Move planner app](https://jpacsai.github.io/Udacity/IntroToAjax/minicourse-ajax-project/)
 
@@ -30,7 +25,17 @@ Intro to Ajax: [Move planner app](https://jpacsai.github.io/Udacity/IntroToAjax/
 [Wikipedia Viewer](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/WikipediaViewer/)  
 [TwitchTV Checker](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/Twitchtv/)
 
+### Advanced Projects:
+[Calculator](https://jpacsai.github.io/freeCodeCamp/AdvancedProjects/Calculator/)
 
+***
+
+## Google-Udacity Front End Web Developer Scholarship:  
+[Pixel Art Maker](https://jpacsai.github.io/GoogleUdacity_Nanodegree/ChallengePhase/FinalProject/)  
+
+### Nanodegree Scholarchip:
+[Animal Trading Card](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Animal_Trading_Card/)
+[Portfolio Page](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/PortfolioProject/)
 
 
 
