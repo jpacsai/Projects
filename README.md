@@ -34,7 +34,7 @@ Intro to Ajax: [Move planner app](https://jpacsai.github.io/Udacity/IntroToAjax/
 [Pixel Art Maker](https://jpacsai.github.io/GoogleUdacity_Nanodegree/ChallengePhase/FinalProject/)  
 
 ### Nanodegree Scholarship:
-[Animal Trading Card](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Animal_Trading_Card/)
+[Animal Trading Card](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Animal_Trading_Card/)  
 [Portfolio Page](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/PortfolioProject/)
 
 
