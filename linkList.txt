@@ -25,3 +25,7 @@ https://jpacsai.github.io/GoogleUdacity_Nanodegree/ChallengePhase/FinalProject/
 https://jpacsai.github.io/Udacity/IntroToAjax/minicourse-ajax-project/
 
 https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/PortfolioProject/
+
+https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Memory_Game/
+
+https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Arcade_Game/
