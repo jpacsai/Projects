@@ -38,5 +38,5 @@ Intro to Ajax: [Move planner app](https://jpacsai.github.io/Udacity/IntroToAjax/
 [Portfolio Page](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Portfolio_Project/)  
 [Matching Game](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Memory_Game/)  
 [Arcade Game](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Arcade_Game/)
-[Cat Clicker - Basic](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Basic/dist/index.html)
+[Cat Clicker - Basic](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Basic/dist/index.html)  
 [Cat Clicker - Premium Edt](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition/dist/)
