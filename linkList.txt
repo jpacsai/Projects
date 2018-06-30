@@ -30,6 +30,9 @@ https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Memory_Game/
 
 https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Arcade_Game/
 
-https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Basic/dist/index.html
-https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition/dist/
-https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition_Pro/dist/
+https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Basic/dist/index.html  
+https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition/dist/  
+https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition_Pro/dist/  
+
+https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/  
+
