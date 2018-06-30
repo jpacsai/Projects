@@ -1,4 +1,4 @@
-###Codeberry
+### Codeberry
 
 https://jpacsai.github.io/codeBerrySchool/HTML-CSS/about_page/
 
@@ -8,7 +8,7 @@ https://jpacsai.github.io/codeBerrySchool/HTML-CSS/wiki_page/
 
 https://jpacsai.github.io/codeBerrySchool/HTML-CSS-JS/ColorClock/
 
-###freeCodeCamp
+### freeCodeCamp
 
 https://jpacsai.github.io/freeCodeCamp/BasicProjects/Tribute_page/
 
@@ -18,7 +18,7 @@ https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/LocalWeather/
 
 https://jpacsai.github.io/freeCodeCamp/AdvancedProjects/Calculator/
 
-###Google-Udacity Nanodegree
+### Google-Udacity Nanodegree
 
 https://jpacsai.github.io/GoogleUdacity_Nanodegree/ChallengePhase/FinalProject/
 
