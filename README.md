@@ -16,8 +16,11 @@ Intro to Ajax: [Move planner app](https://jpacsai.github.io/Udacity/IntroToAjax/
 ## freeCodeCamp:  
 ### Front End Path:  
 #### Basic Projects:  
-[Tribute page](https://jpacsai.github.io/freeCodeCamp/BasicProjects/Tribute_page/)  
-[Portfolio page](https://jpacsai.github.io/freeCodeCamp/BasicProjects/Portfolio_page/)  
+[Tribute page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Tribute_page/)  
+[Portfolio page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Portfolio_page/)  
+[Survey Form](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Survey_Form/)
+[Product Landing Page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Product_Landing_Page/)
+[Technical Documentation](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Technical_Documentation/)
 
 #### Intermediate Projects:  
 [Random Quote Machine](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/)  
