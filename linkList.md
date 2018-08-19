@@ -10,13 +10,18 @@ https://jpacsai.github.io/codeBerrySchool/HTML-CSS-JS/ColorClock/
 
 ### freeCodeCamp
 
-https://jpacsai.github.io/freeCodeCamp/BasicProjects/Tribute_page/
+https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Tribute_page/  
+https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Portfolio_page/  
+https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Survey_Form/  
+https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Product_Landing_Page/  
+https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Technical_Documentation/  
+https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/   
+https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/LocalWeather/  
+https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/WikipediaViewer/  
+https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/Twitchtv/  
+https://jpacsai.github.io/freeCodeCamp/AdvancedProjects/Calculator/  
+https://codepen.io/jutzee/full/RYbgzy/  
 
-https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/
-
-https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/LocalWeather/
-
-https://jpacsai.github.io/freeCodeCamp/AdvancedProjects/Calculator/
 
 ### Google-Udacity Nanodegree
 
