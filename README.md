@@ -18,19 +18,20 @@ Intro to Ajax: [Move planner app](https://jpacsai.github.io/Udacity/IntroToAjax/
 #### Basic Projects:  
 [Tribute page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Tribute_page/)  
 [Portfolio page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Portfolio_page/)  
-[Survey Form](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Survey_Form/)
-[Product Landing Page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Product_Landing_Page/)
-[Technical Documentation](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Technical_Documentation/)
+[Survey Form](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Survey_Form/)  
+[Product Landing Page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Product_Landing_Page/)  
+[Technical Documentation](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Technical_Documentation/)  
 
 #### Intermediate Projects:  
 [Random Quote Machine](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/)  
 [Local Weather app](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/LocalWeather/)  
 [Wikipedia Viewer](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/WikipediaViewer/)  
-[TwitchTV Checker](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/Twitchtv/)
+[TwitchTV Checker](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/Twitchtv/)  
 
 ### Advanced Projects:
 [Calculator](https://jpacsai.github.io/freeCodeCamp/AdvancedProjects/Calculator/)
-[Markdown previewer](https://codepen.io/jutzee/full/RYbgzy/)
+[Markdown previewer](https://codepen.io/jutzee/full/RYbgzy/)  
+[Drum machine](https://jpacsai.github.io/drum-machine-app/)
 
 ***
 
