@@ -29,7 +29,7 @@ Intro to Ajax: [Move planner app](https://jpacsai.github.io/Udacity/IntroToAjax/
 [TwitchTV Checker](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/Twitchtv/)  
 
 ### Advanced Projects:
-[Calculator](https://jpacsai.github.io/freeCodeCamp/AdvancedProjects/Calculator/)
+[Calculator](https://jpacsai.github.io/freeCodeCamp/AdvancedProjects/Calculator/)  
 [Markdown previewer](https://codepen.io/jutzee/full/RYbgzy/)  
 [Drum machine](https://jpacsai.github.io/drum-machine-app/)
 
