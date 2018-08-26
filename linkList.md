@@ -39,5 +39,9 @@ https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Basic/
 https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition/dist/  
 https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition_Pro/dist/  
 
+https://jpacsai.github.io/MyReads-App/#/
+
 https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/  
+
+https://jpacsai.github.io/Neighborhood-App/
 
