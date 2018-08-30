@@ -9,7 +9,7 @@
 | [Arcade Game](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Arcade_Game/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/Arcade_Game) | 
 | [Cat Clicker - Basic](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Basic/dist/index.html) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/Cat_Clicker/Basic) |
 | [Cat Clicker - Premium Edt](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition/dist/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/Cat_Clicker/Premium_Edition) |
-| [Cat_Clicker - PremiumPro Edt](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition_Pro/dist/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/Cat_Clicker/Premium_Edition_Pro) |
+| [Cat Clicker - PremiumPro Edt](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition_Pro/dist/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/Cat_Clicker/Premium_Edition_Pro) |
 | [Restaurant Reviews App](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/Restaurant_Review_App) |
 | [MyReads App](https://jpacsai.github.io/MyReads-App/#/) | [repo](https://github.com/jpacsai/MyReads-App) |
 | [Neighborhood App](https://jpacsai.github.io/Neighborhood-App/) | [repo](https://github.com/jpacsai/Neighborhood-App) |
