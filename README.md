@@ -2,7 +2,13 @@
 
 Links for my all my projects and their repos for ease of reference
 
-### Nanodegree Scholarship:
+## Google-Udacity Front End Web Developer Scholarship:  
+### Challenge Phase:
+| Live link | Repo |
+| :-------- | :--: |
+| [Pixel Art Maker](https://jpacsai.github.io/GoogleUdacity_Nanodegree/ChallengePhase/FinalProject/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase/FinalProject)
+
+### Nanodegree:
 | Live link | Repo |
 | :-------- | :--: |
 | [Animal Trading Card](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Animal_Trading_Card/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/Animal_Trading_Card) |
@@ -16,15 +22,10 @@ Links for my all my projects and their repos for ease of reference
 | [MyReads App](https://jpacsai.github.io/MyReads-App/#/) | [repo](https://github.com/jpacsai/MyReads-App) |
 | [Neighborhood App](https://jpacsai.github.io/Neighborhood-App/) | [repo](https://github.com/jpacsai/Neighborhood-App) |
 
-## Google-Udacity Front End Web Developer Scholarship:  
-| Live link | Repo |
-| :-------- | :--: |
-| [Pixel Art Maker](https://jpacsai.github.io/GoogleUdacity_Nanodegree/ChallengePhase/FinalProject/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase/FinalProject)
-
 ***
 
 ## freeCodeCamp:    
-#### Responsive Web Design Projects:  
+### Responsive Web Design Projects:  
 | Live link | Repo |
 | :-------- | :--: |
 | [Tribute page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Tribute_page/)  | [repo](https://github.com/jpacsai/freeCodeCamp/tree/master/ResponsiveWebDesign_Projects/Tribute_page) |
@@ -33,7 +34,7 @@ Links for my all my projects and their repos for ease of reference
 | [Product Landing Page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Product_Landing_Page/) | [repo](https://github.com/jpacsai/freeCodeCamp/tree/master/ResponsiveWebDesign_Projects/Product_Landing_Page) |
 | [Technical Documentation](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Technical_Documentation/) | [repo](https://github.com/jpacsai/freeCodeCamp/tree/master/ResponsiveWebDesign_Projects/Technical_Documentation) |
 
-#### (Old Intermediate Projects):  
+### (Old Intermediate Projects):  
 | Live link | Repo |
 | :-------- | :--: |
 | [Random Quote Machine](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/) | [repo](https://github.com/jpacsai/freeCodeCamp/tree/master/IntermediateProjects/QuoteMachine) |
