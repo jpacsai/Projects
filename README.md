@@ -1,6 +1,6 @@
 # Project links
 
-Links for my all my projects and their repos for ease of reference
+Links for my all my projects and their repos in one place for ease of reference
 
 ## Google-Udacity Front End Web Developer Scholarship:  
 ### Challenge Phase:
