@@ -34,7 +34,7 @@ Links for my all my projects and their repos in one place for ease of reference
 | [Product Landing Page](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Product_Landing_Page/) | [repo](https://github.com/jpacsai/freeCodeCamp/tree/master/ResponsiveWebDesign_Projects/Product_Landing_Page) |
 | [Technical Documentation](https://jpacsai.github.io/freeCodeCamp/ResponsiveWebDesign_Projects/Technical_Documentation/) | [repo](https://github.com/jpacsai/freeCodeCamp/tree/master/ResponsiveWebDesign_Projects/Technical_Documentation) |
 
-### (Old Intermediate Projects):  
+### Intermediate Projects - _old curriculum_:  
 | Live link | Repo |
 | :-------- | :--: |
 | [Random Quote Machine](https://jpacsai.github.io/freeCodeCamp/IntermediateProjects/QuoteMachine/) | [repo](https://github.com/jpacsai/freeCodeCamp/tree/master/IntermediateProjects/QuoteMachine) |
