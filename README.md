@@ -46,7 +46,7 @@ Links for my all my projects and their repos in one place for ease of reference
 | Live link | Repo |
 | :-------- | :--: |
 | [Calculator](https://jpacsai.github.io/freeCodeCamp/AdvancedProjects/Calculator/) | [repo](https://github.com/jpacsai/freeCodeCamp/tree/master/FrontEndLibraries_Projects/Calculator) |
-| [Markdown previewer](https://codepen.io/jutzee/full/RYbgzy/) | [repo](https://github.com/jpacsai/freeCodeCamp/tree/master/FrontEndLibraries_Projects/markdown_previewer) |
+| [Markdown previewer](https://jpacsai.github.io/Markdown_previewer/) | [repo](https://github.com/jpacsai/Markdown_previewer) |
 | [Drum machine](https://jpacsai.github.io/drum-machine-app/) | [repo](https://github.com/jpacsai/Drum-Machine-App) |
 
 ***
