@@ -3,14 +3,11 @@
 Links for my all my projects and their repos in one place for ease of reference
 
 ## Google-Udacity Front End Web Developer Scholarship:  
-### Challenge Phase:
-| Live link | Repo |
-| :-------- | :--: |
-| [Pixel Art Maker](https://jpacsai.github.io/GoogleUdacity_Nanodegree/ChallengePhase/FinalProject/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase/FinalProject)
 
 ### Nanodegree:
 | Live link | Repo |
 | :-------- | :--: |
+| **[Neighborhood App](https://jpacsai.github.io/Neighborhood-App/)** | [repo](https://github.com/jpacsai/Neighborhood-App) |
 | [Animal Trading Card](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Animal_Trading_Card/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/Animal_Trading_Card) |
 | [Portfolio Page](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Portfolio_Project/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/Portfolio_Project) |
 | [Matching Game](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Memory_Game/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/Memory_Game) |
@@ -20,7 +17,12 @@ Links for my all my projects and their repos in one place for ease of reference
 | [Cat Clicker - PremiumPro Edt](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Cat_Clicker/Premium_Edition_Pro/dist/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/Cat_Clicker/Premium_Edition_Pro) |
 | [Restaurant Reviews App](https://jpacsai.github.io/GoogleUdacity_Nanodegree/Nanodegree/Restaurant_Review_App/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/Nanodegree/Restaurant_Review_App) |
 | [MyReads App](https://jpacsai.github.io/MyReads-App/#/) | [repo](https://github.com/jpacsai/MyReads-App) |
-| [Neighborhood App](https://jpacsai.github.io/Neighborhood-App/) | [repo](https://github.com/jpacsai/Neighborhood-App) |
+
+### Challenge Phase:
+| Live link | Repo |
+| :-------- | :--: |
+| [Pixel Art Maker](https://jpacsai.github.io/GoogleUdacity_Nanodegree/ChallengePhase/FinalProject/) | [repo](https://github.com/jpacsai/GoogleUdacity_Nanodegree/tree/master/ChallengePhase/FinalProject)
+
 
 ***
 
