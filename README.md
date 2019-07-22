@@ -51,7 +51,7 @@ Links for my all my projects and their repos in one place for ease of reference
 | Live link | Repo |
 | :-------- | :--: |
 | [Markdown previewer](https://jpacsai.github.io/Markdown_previewer/) | [repo](https://github.com/jpacsai/Markdown_previewer) |
-| [Drum machine](https://jpacsai.github.io/drum-machine-app/) | [repo](https://github.com/jpacsai/Drum-Machine-App) |
+| [Drum machine](https://jpacsai.github.io/Drum-Machine-App/) | [repo](https://github.com/jpacsai/Drum-Machine-App) |
 | [Pomodoro Clock](https://jpacsai.github.io/Pomodoro_Clock/) | [repo](https://github.com/jpacsai/Pomodoro_Clock) |
 
 ***
