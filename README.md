@@ -3,7 +3,15 @@
 Links for my all my projects and their repos in one place for ease of reference
 
 ## Own projects:
-[Favourite tracker](https://github.com/jpacsai/Track_Favourites)
+| Live link | Repo |
+| :-------- | :--: |
+| [Emaily - upgraded version](https://obscure-tundra-54097.herokuapp.com/) | [repo](https://github.com/jpacsai/Emaily/tree/master)
+
+## Udemy courses:
+| Live link | Repo |
+| :-------- | :--: |
+| [Emaily - basic version](https://emaily-course-jpacsai.herokuapp.com/) | [repo](https://github.com/jpacsai/Emaily/tree/course) |
+| DevConnector | [repo](https://github.com/jpacsai/Dev-Connector) |
 
 ## Google-Udacity Front End Web Developer Scholarship:  
 
